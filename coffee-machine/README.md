@@ -88,8 +88,8 @@ class MoneyMachine:
         Returns True if payment is sufficient.
         Deducts cost and returns change if needed.
         """
-
 ```
+
 💰 Accepted coins: quarters (0.25), dimes (0.10), nickles (0.05), pennies (0.01)
 
 
