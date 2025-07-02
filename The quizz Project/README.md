@@ -49,8 +49,12 @@ Your final score was: 8/10
 
 .
 ├── main.py            # Main script with the quiz loop
+
 ├── data.py            # Contains the list of questions (question_data)
+
 ├── question_model.py  # Question class to represent each quiz item
+
 ├── quiz_brain.py      # QuizBrain class to manage quiz logic
+
 ├── README.md          # Project documentation
 
