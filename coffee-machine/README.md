@@ -75,7 +75,7 @@ class MoneyMachine:
 
 ### `MoneyMachine`
 
-```
+```python
 class MoneyMachine:
     def report(self):
         """Displays current profit."""
