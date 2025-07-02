@@ -47,7 +47,7 @@ Your final score was: 8/10
 ```
 ## 🧱 Project Structure
 
-.
+
 ├── main.py            # Main script with the quiz loop
 
 ├── data.py            # Contains the list of questions (question_data)
