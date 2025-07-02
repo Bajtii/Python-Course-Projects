@@ -2,6 +2,9 @@
 
 This is a Python program that uses the `turtle` graphics library to create a colorful grid of dots inspired by Damien Hirst’s spot paintings.
 
+![image](https://github.com/user-attachments/assets/a803a441-de7e-40a2-a005-e87b5383629d)
+
+
 ---
 
 ## 📌 Project Purpose
