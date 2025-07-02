@@ -5,6 +5,7 @@ Each project is organized in its own folder.
 
 ## 📁 Contents
 
-- `coffee-machine/` – a project that simulates the operation of a coffee machine.
-
+- `coffee-machine` 
+- `The quizz Project`
+- `Turtle & the Graphical User Interface (GUI)`
 More projects will be added as I progress through the course.
