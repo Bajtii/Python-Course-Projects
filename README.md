@@ -15,5 +15,7 @@ Each project is organized in its own folder.
 - `turtle-race`
 - `US-states-game`
 - `Mail Merge Project`
-- 
+- `NATO Alphabet`
+  
+  
 More projects will be added as I progress through the course.
