@@ -16,5 +16,5 @@ Each project is organized in its own folder.
 - `US-states-game`
 - `Mail Merge Project`
 - `NATO Alphabet`
-  
+- `Pomodoro`
   
