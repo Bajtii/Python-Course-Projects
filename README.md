@@ -18,4 +18,3 @@ Each project is organized in its own folder.
 - `NATO Alphabet`
   
   
-More projects will be added as I progress through the course.
