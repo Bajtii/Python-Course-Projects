@@ -13,5 +13,5 @@ Each project is organized in its own folder.
 - `pong-game`
 - `Etch-A-Sketch App`
 - `turtle-race`
-- `US-states-game
+- `US-states-game`
 More projects will be added as I progress through the course.
