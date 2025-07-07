@@ -37,15 +37,12 @@ python main.py
 ## ✅ Requirements
 
 - Python 3.x
-
 - Uses the standard turtle library — no additional installations needed
 
 ## 🧱 Classes Overview
 
 - **Player**: Controls player movement and tracks position
-
 - **CarManager**: Creates, moves, and manages cars on the screen
-
 - **Scoreboard**: Displays the current level and game over message
 
 
