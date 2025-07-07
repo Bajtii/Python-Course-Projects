@@ -23,7 +23,7 @@ A simple and effective **Pomodoro Timer** built with Python and Tkinter. This pr
 
 ## 🖼️ Screenshot
 
-<img src="screenshot.png" width="400" alt="Pomodoro Timer GUI" />
+<img src="[screenshot.png](https://github.com/Bajtii/Python-Course-Projects/blob/main/Pomodoro/tomato.png)" width="400" alt="Pomodoro Timer GUI" />
 
 > Don’t forget to include `tomato.png` in the project directory for the GUI image.
 
