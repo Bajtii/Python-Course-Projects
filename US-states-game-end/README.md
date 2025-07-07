@@ -1,4 +1,4 @@
-# 🇺🇸 U.S. States Game
+# U.S. States Game
 
 A fun interactive game built with Python's `turtle` and `pandas` libraries.  
 Test your knowledge of the U.S. states by guessing their names on a blank map!
