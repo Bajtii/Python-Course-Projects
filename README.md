@@ -12,7 +12,6 @@ Each project is organized in its own folder.
 - `Snake`
 - `pong-game`
 - `Etch-A-Sketch App`
-- `turtle-race`
 - `US-states-game`
 - `Mail Merge Project`
 - `NATO Alphabet`
