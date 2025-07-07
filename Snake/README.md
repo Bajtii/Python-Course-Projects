@@ -1,6 +1,6 @@
 # 🐍 Snake Game (Python Turtle)
 
-![image](https://github.com/user-attachments/assets/099daf6c-143a-44ac-a852-a9d987f62b6a)
+![image](https://github.com/user-attachments/assets/d0838bdd-767d-45a8-aa46-9a238fea5292)
 
 A classic Snake game implemented in Python using the `turtle` graphics module. This game features a modular, object-oriented design with separate classes for the snake, food, and scoreboard.
 
@@ -44,5 +44,6 @@ A classic Snake game implemented in Python using the `turtle` graphics module. T
 - **Snake**: Handles the snake’s segments, movement, and growth logic  
 - **Food**: Creates and refreshes the food at random positions on the screen  
 - **Scoreboard**: Tracks and displays the current score and shows the game-over message
+- **Highscore**: Shows player's highscore
 
 
